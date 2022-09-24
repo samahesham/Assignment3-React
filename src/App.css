@@ -1,0 +1,13 @@
+img{
+  width: 800px;
+  height: 500px;
+}
+.jumbotron{
+  background-color: black;
+  color: darkblue;
+}
+.nav-item{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  padding: 15px;
+}
